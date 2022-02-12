@@ -1,5 +1,5 @@
 #!/bin/bash
-curl https://lumiere-a.akamaihd.net/v1/images/sa_pixar_virtualbg_coco_16x9_9ccd7110.jpeg >> ~/Downloads/img.png && open -a Preview ~/Downloads/img.png  && echo "successfuly Download" 
+curl https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NYCS-bull-trans-5.svg/2048px-NYCS-bull-trans-5.svg.png  >> ~/Downloads/img.png && open -a Preview ~/Downloads/img.png  && echo "successfuly Download" 
 sleep 1
 echo "###########################"
 sleep 1
